@@ -74,6 +74,7 @@ Creates a Pandas DataFrame from the generated hostnames. It assigns columns for 
 ### Example Output
 
 1.	DataFrame:
+
 hostname    os    environment    country    node
 LDIRL003    Linux      Development    Ireland    3
 ...
