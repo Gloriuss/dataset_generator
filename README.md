@@ -73,12 +73,13 @@ Creates a Pandas DataFrame from the generated hostnames. It assigns columns for 
 
 ### Example Output
 
-	1.	DataFrame:
- hostname   os        environment   country  node
-LDIRL003   Linux     Development   Ireland   3
+1.	DataFrame:
+hostname    os    environment    country    node
+LDIRL003    Linux      Development    Ireland    3
 ...
-	2.	CSV: Saved as hosts.csv, viewable with any CSV reader or using Pandas.
-	3.	Visualizations:
+
+3.	CSV: Saved as hosts.csv, viewable with any CSV reader or using Pandas.
+4.	Visualizations:
 Several bar charts and a pie chart representing the data distribution.
 
 ## License
